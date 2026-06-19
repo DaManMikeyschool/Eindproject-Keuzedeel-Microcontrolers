@@ -187,4 +187,4 @@ Doorgevoerde aanpassingen op basis van testen:
 - kapotte kabels
 
 ## Ter info
-- De video (ook in deze repo) had een heleboel achtergrond geluiden, ik heb het bewerkt om te zorgen dat meeste weg zijn, maar heel af en toe hoor je daarom de buzzer ook niet.
+- De video (https://youtube.com/shorts/3XtIPdvqKEQ?feature=share voor onbekende reden als short geupload maar t moest ff zo want de video was te groot voor git) had een heleboel achtergrond geluiden, ik heb het bewerkt om te zorgen dat meeste weg zijn, maar heel af en toe hoor je daarom de buzzer ook niet.
